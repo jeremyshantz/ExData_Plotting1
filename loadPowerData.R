@@ -1,6 +1,6 @@
 # Methods to load a fixed date range from the household_power_consumption.txt source file.
 
-# use par to reset mfrow to default value since it is a global setting (and might be changed by plot4.R if run before this file)
+# use par to reset mfrow to default value since it is a global setting (and might be changed by plot4.R if run before other files)
 par(mfrow=c(1,1))
 
 # file paths
