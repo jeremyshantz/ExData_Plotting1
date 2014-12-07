@@ -1,3 +1,31 @@
+
+### Plot 1
+![Jeremy Shantz](plot1.png) 
+
+![reference](figure/unnamed-chunk-2.png) 
+
+
+### Plot 2
+
+![Jeremy Shantz](plot2.png) 
+![reference](figure/unnamed-chunk-3.png) 
+
+
+### Plot 3
+![Jeremy Shantz](plot3.png) 
+![reference](figure/unnamed-chunk-4.png) 
+
+
+### Plot 4
+![Jeremy Shantz](plot4.png) 
+![reference](figure/unnamed-chunk-5.png) 
+
+
+
+
+
+
+
 ## Introduction
 
 This assignment uses data from
