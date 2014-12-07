@@ -1,23 +1,31 @@
 
 ### Plot 1
+
+## Jeremy Shantz
 ![Jeremy Shantz](plot1.png) 
 
+## Reference
 ![reference](figure/unnamed-chunk-2.png) 
 
 
 ### Plot 2
-
+## Jeremy Shantz
 ![Jeremy Shantz](plot2.png) 
+## Reference
 ![reference](figure/unnamed-chunk-3.png) 
 
 
 ### Plot 3
+## Jeremy Shantz
 ![Jeremy Shantz](plot3.png) 
+## Reference
 ![reference](figure/unnamed-chunk-4.png) 
 
 
 ### Plot 4
+## Jeremy Shantz
 ![Jeremy Shantz](plot4.png) 
+## Reference
 ![reference](figure/unnamed-chunk-5.png) 
 
 
